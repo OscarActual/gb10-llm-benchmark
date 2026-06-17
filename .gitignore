@@ -1,0 +1,15 @@
+# pracovní výstupy běhů (publikované výsledky jsou ve složce results/)
+/results.csv
+/results.jsonl
+/results-think.csv
+/results-think.jsonl
+/bench_meta.json
+/bench_run*.log
+/summary*.md
+/embed.md
+/gptoss_recheck*.txt
+/gptoss_recheck.md
+working.csv
+__pycache__/
+*.pyc
+.DS_Store
