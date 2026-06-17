@@ -1,0 +1,23 @@
+NAME                                                 ID              SIZE      MODIFIED       
+mxbai-embed-large:latest                             468836162de7    669 MB    50 minutes ago    
+all-minilm:latest                                    1b226e2802db    45 MB     50 minutes ago    
+nomic-embed-text:latest                              0a109f422b47    274 MB    50 minutes ago    
+jeffh/intfloat-multilingual-e5-large-instruct:f16    9bc40a9c9e63    1.1 GB    50 minutes ago    
+snowflake-arctic-embed2:latest                       5de93a84837d    1.2 GB    51 minutes ago    
+qwen3-embedding:8b                                   64b933495768    4.7 GB    51 minutes ago    
+qwen3-embedding:0.6b                                 ac6da0dfba84    639 MB    51 minutes ago    
+qwen3-embedding:4b                                   df5bd2e3c74c    2.5 GB    51 minutes ago    
+bge-m3:latest                                        790764642607    1.2 GB    51 minutes ago    
+embeddinggemma:latest                                85462619ee72    621 MB    51 minutes ago    
+nemotron-3-super:120b                                95acc78b3ffd    86 GB     30 hours ago      
+mistral-medium-3.5:128b                              0341632adb05    80 GB     30 hours ago      
+gpt-oss:120b                                         a951a23b46a1    65 GB     30 hours ago      
+llama3.3:70b                                         a6eb4748fd29    42 GB     30 hours ago      
+qwen3.6:35b-a3b                                      07d35212591f    23 GB     30 hours ago      
+gemma4:31b                                           6316f0629137    19 GB     30 hours ago      
+mistral-small3.2:24b                                 5a408ab55df5    15 GB     30 hours ago      
+qwen3.6:27b                                          a50eda8ed977    17 GB     30 hours ago      
+gpt-oss:20b                                          17052f91a42e    13 GB     30 hours ago      
+gemma4:e4b                                           c6eb396dbd59    9.6 GB    30 hours ago      
+llama3.1:8b                                          46e0c10c039e    4.9 GB    30 hours ago      
+qwen3.6:35b                                          07d35212591f    23 GB     2 days ago        
