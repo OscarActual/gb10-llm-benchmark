@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Local LLM benchmark on NVIDIA GB10 (DGX Spark class)"
+message: "If you use these results, please cite them."
+type: software
+authors:
+  - family-names: "Břicháček"
+    given-names: "František"
+url: "https://github.com/OscarActual/gb10-llm-benchmark"
+repository-code: "https://github.com/OscarActual/gb10-llm-benchmark"
+license: MIT
+date-released: "2026-06-22"
